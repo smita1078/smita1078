@@ -54,15 +54,10 @@ Active **Open Source Contributor** to Checkstyle (GSOC Organization) with **30+ 
 
 <div align="center">
 
-<a href="https://github.com/smita1078">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smita1078&theme=github_dark" width="30%"/>
-</a>
-<a href="https://github.com/smita1078">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smita1078&theme=github_dark&utcOffset=5.5" width="30%"/>
-</a>
-<a href="https://github.com/smita1078">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smita1078&theme=github_dark" width="30%"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smita1078&theme=github_dark" width="30%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smita1078&theme=github_dark&utcOffset=5.5" width="30%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smita1078&theme=github_dark" width="30%"/>
+
 </div>
 
 ---
