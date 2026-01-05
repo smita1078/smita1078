@@ -20,7 +20,7 @@
 
 **Senior Analyst @ Deutsche Bank** | NIT Raipur Silver Medalist (9.53 CGPA)
 
-Results-driven Software Engineer specializing in **Test Automation** and **Microservices Architecture** in the Investment Banking domain. Built enterprise-grade regression suites from scratch, reducing manual testing efforts by **80%**. Developed backend microservices and secure data ingestion using REST APIs.
+Software Engineer specializing in **Test Automation** and **Microservices Architecture** in the Investment Banking domain. Built regression suites from scratch, reducing manual testing efforts by **80%**. Developed backend microservices and secure data ingestion using REST APIs.
 
 Active **Open Source Contributor** to Checkstyle (GSOC Organization) with **30+ merged PRs**, improving code quality and maintainability for **1,000+ developers** worldwide. Passionate about building scalable, clean architectures and driving engineering excellence through automation and best practices.
 
