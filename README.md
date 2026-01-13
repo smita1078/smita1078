@@ -108,6 +108,7 @@ Active **Open Source Contributor** to Checkstyle (GSOC Organization) with **30+ 
 Quality Engineering • Test Architecture • Open Source • CI/CD • Microservices
 
 <br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-smita--prajapati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smita-prajapati082/)
 [![Email](https://img.shields.io/badge/Email-smita.prajapati082-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smita.prajapati082@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]()
