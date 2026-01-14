@@ -1,4 +1,4 @@
-# Hey! 👋 I'm Smita Prajapati
+# Smita Prajapati
 
 <div align="center">
 
@@ -11,58 +11,56 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&width=500&lines=Senior+Analyst+%40+Deutsche+Bank;Open+Source+Contributor;NIT+Raipur+B'TECH+Silver+Medalist" alt="Typing SVG" />
+  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&width=500&lines=Senior+Analyst+%40+Deutsche+Bank;Open+Source+Contributor;NIT+Raipur+B.Tech+Silver+Medalist" alt="Typing SVG" /> -->
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-**Senior Analyst @ Deutsche Bank** | NIT Raipur Silver Medalist (9.53 CGPA)
+**Senior Analyst @ Deutsche Bank** | **NIT Raipur Silver Medalist** (9.53 CGPA)
 
 Software Engineer specializing in **Test Automation** and **Microservices Architecture** in the Investment Banking domain. Built regression suites from scratch, reducing manual testing efforts by **80%**. Developed backend microservices and secure data ingestion using REST APIs.
 
-Active **Open Source Contributor** to Checkstyle (GSOC Organization) with **30+ merged PRs**, improving code quality and maintainability. Passionate about building scalable, clean architectures and driving engineering excellence through automation and best practices.
+Active **Open Source Contributor** to Checkstyle (GSOC Organization) with **40+ merged PRs**, improving code quality and maintainability. Passionate about building scalable, clean architectures and driving engineering excellence through automation and best practices.
 
-**🏆 Key Achievements:**
+### 🏆 Key Achievements
+
 - 🥈 **Silver Medalist** - NIT Raipur (9.53 CGPA, B.Tech ECE, 2024)
 - 🏆 **RCP Excellence Award** - Deutsche Bank (50% code reduction, scalable architecture, 2025)
 - 💻 **Top Participant** - Deutsche Bank Global Hackathon 2025 (Among 380 teams)
 - 🌟 **Winner** - The Economic Times Campus Star 6.0 (Brightest Engineering Minds, 2023)
 - 🔬 **Research Fellow** - IISc Bangalore (Indian Academy of Sciences, 2022)
-- ☁️ **GCP** - Learn to Earn Cloud Challenges by Qwiklabs & Google Cloud (2023)
+- ☁️ **GCP Certified** - Learn to Earn Cloud Challenges by Qwiklabs & Google Cloud (2023)
 - 🎓 **Scholar Badge** - DPS Bhilai (Outstanding all-round performance, 2019)
+
 ---
 
-## 📊 Live GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
-### 📊 Contribution Graph (Live)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smita1078&custom_title=Contribution%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true)
 
-### 📅 Detailed Timeline
+</div>
+
+<div align="center">
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smita1078&theme=github_dark)
 
 </div>
 
----
-
-## 🎯 Real-Time Metrics
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smita1078&theme=github_dark" width="30%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smita1078&theme=github_dark&utcOffset=5.5" width="30%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smita1078&theme=github_dark" width="30%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smita1078&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smita1078&theme=github_dark&utcOffset=5.5" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smita1078&theme=github_dark" width="32%"/>
 
 </div>
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -73,13 +71,12 @@ Active **Open Source Contributor** to Checkstyle (GSOC Organization) with **30+ 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frameworks & Architectures
+### Frameworks & Architecture
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=microservices&logoColor=white)
 
-### Cloud & AI Platforms
+### Cloud & AI
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Dialogflow CX](https://img.shields.io/badge/Dialogflow_CX-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -94,32 +91,54 @@ Active **Open Source Contributor** to Checkstyle (GSOC Organization) with **30+ 
 ### CI/CD & DevOps
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white)
-
-### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ---
 
-## 📫 Let's Connect!
+## ☕ Buy Me A Coffee
 
 <div align="center">
 
-**💬 Interested in discussing:**
-Quality Engineering • Test Architecture • Open Source • CI/CD • Microservices
+```java
+if (coffee == null) {
+    developer.productivity = 0;
+    developer.bugCount++;
+    throw new NeedsCaffeineException("Send coffee ASAP!");
+}
+```
 
-<br/>
+**Current Status:** `CoffeeNotFoundException` 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-smita--prajapati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smita-prajapati082/)
-[![Email](https://img.shields.io/badge/Email-smita.prajapati082-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smita.prajapati082@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]()
-[![LeetCode](https://img.shields.io/badge/LeetCode-Sp10078-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sp10078/)
+If you find something useful in my repos, consider buying me a coffee! 
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/smita1078)
+
+*1 Coffee = 100 lines of code • 2 Coffees = 1 feature shipped • 3 Coffees = open source magic ✨*
+
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=footer"/>
+## Connect
 
-**⭐ "Quality isn't tested in—it's engineered in." ⭐**
+<div align="center">
 
-*Thanks for visiting! All stats update automatically. Star ⭐ my repos if you find them useful!*
+Interested in discussing Quality Engineering, Test Architecture, Open Source, CI/CD, or Microservices.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smita-prajapati082/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smita.prajapati082@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sp10078/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]()
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer"/>
+
+**"Quality isn't tested in—it's engineered in."**
 
 </div>
