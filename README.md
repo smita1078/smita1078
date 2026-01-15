@@ -3,7 +3,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/smita-prajapati082/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](https://smita1078portfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:smita.prajapati082@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=smita1078&color=58a6ff&style=flat-square&label=Profile+Views)
@@ -99,7 +99,9 @@ Active **Open Source Contributor** with **40+ merged PRs**, improving code quali
 ## ☕ Buy Me A Coffee
 
 <div align="center">
-  
+
+<table align="center">
+
 ```java
 if (coffee == null) {
     developer.productivity = 0;
@@ -107,6 +109,8 @@ if (coffee == null) {
     throw new NeedsCaffeineException("Send coffee ASAP!");
 }
 ```
+
+</table>
 
 **Current Status:** `CoffeeNotFoundException` 
 
