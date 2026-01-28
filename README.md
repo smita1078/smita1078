@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/smita-prajapati082/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](https://smita1078portfolio.netlify.app/)
+[![Gumroad](https://img.shields.io/badge/Gumroad-Shop-FF90E8?style=for-the-badge&logo=gumroad)](https://gumroad.com/products)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:smita.prajapati082@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=smita1078&color=58a6ff&style=flat-square&label=Profile+Views)
@@ -96,6 +97,17 @@ Active **Open Source Contributor** with **40+ merged PRs**, improving code quali
 
 ---
 
+## 🛍️ Digital Products & Resources
+
+<div align="center">
+
+Check out my **products** on Gumroad!
+
+[![Shop on Gumroad](https://img.shields.io/badge/Shop_My_Products-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black)](https://gumroad.com/products)
+</div>
+
+---
+
 ## ☕ Buy Me A Coffee
 
 <div align="center">
@@ -134,6 +146,7 @@ Interested in discussing Quality Engineering, Test Architecture, Open Source, CI
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smita.prajapati082@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sp10078/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://smita1078portfolio.netlify.app/)
+[![Gumroad](https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black)](https://gumroad.com/products)
 
 </div>
 
