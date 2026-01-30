@@ -48,7 +48,9 @@ Active **Open Source Contributor** with **40+ merged PRs**, improving code quali
 <div align="center">
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smita1078&theme=github_dark)
+
 </div>
+
 ---
 
 ## Technical Stack
@@ -94,10 +96,10 @@ Active **Open Source Contributor** with **40+ merged PRs**, improving code quali
 Check out my **products** on Gumroad!
 
 [![Shop on Gumroad](https://img.shields.io/badge/Shop_My_Products-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black)](https://gumroad.com/products)
----
+
 </div>
 
-
+---
 
 ## ☕ Buy Me A Coffee
 
@@ -105,7 +107,7 @@ Check out my **products** on Gumroad!
 
 <table align="center">
 
-```java
+  ```java
 if (coffee == null) {
     developer.productivity = 0;
     developer.bugCount++;
