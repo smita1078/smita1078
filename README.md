@@ -94,9 +94,10 @@ Active **Open Source Contributor** with **40+ merged PRs**, improving code quali
 Check out my **products** on Gumroad!
 
 [![Shop on Gumroad](https://img.shields.io/badge/Shop_My_Products-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black)](https://gumroad.com/products)
-</div>
 
 ---
+</div>
+
 
 ## ☕ Buy Me A Coffee
 
