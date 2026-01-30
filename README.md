@@ -49,16 +49,6 @@ Active **Open Source Contributor** with **40+ merged PRs**, improving code quali
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smita1078&theme=github_dark)
 
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smita1078&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smita1078&theme=github_dark&utcOffset=5.5" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smita1078&theme=github_dark" width="32%"/>
-
-</div>
-
 ---
 
 ## Technical Stack
