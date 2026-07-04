@@ -23,7 +23,7 @@
 
 Software Engineer specializing in **Test Automation** and **Microservices Architecture** in the Investment Banking domain. Built regression suites from scratch, reducing manual testing efforts by **80%**. Developed backend microservices and secure data ingestion using REST APIs.
 
-Active **Open Source Contributor** with **40+ merged PRs**, improving code quality and maintainability. Passionate about building scalable, clean architectures and driving engineering excellence through automation and best practices.
+Active **Open Source Contributor** with **150+ merged PRs**, improving code quality and maintainability. Passionate about building scalable, clean architectures and driving engineering excellence through automation and best practices.
 
 ### 🏆 Key Achievements
 
