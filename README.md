@@ -29,7 +29,6 @@ Active **Open Source Contributor** with **200+ merged PRs**, improving code qual
 
 - 🥈 **Silver Medalist** - NIT Raipur (9.53 CGPA, B.Tech ECE, 2024)
 - 🏆 **RCP Excellence Award** - Deutsche Bank (50% code reduction, scalable architecture, 2025)
-- 💻 **Top Participant** - Deutsche Bank Global Hackathon 2025 (Among 380 teams)
 - 🌟 **Winner** - The Economic Times Campus Star 6.0 (Brightest Engineering Minds, 2023)
 - 🔬 **Research Fellow** - IISc Bangalore (Indian Academy of Sciences, 2022)
 - ☁️ **GCP Certified** - Learn to Earn Cloud Challenges by Qwiklabs & Google Cloud (2023)
