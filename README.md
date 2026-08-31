@@ -1,4 +1,7 @@
 # Smita Prajapati
+<div align="center">
+<img src="terminal.svg" width="100%"/>
+</div>
 
 **Software Engineer · GSoC · NIT Raipur Silver Medalist**
 
