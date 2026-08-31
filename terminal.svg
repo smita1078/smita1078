@@ -60,7 +60,7 @@
   <text x="148" y="78" class="dim">:</text>
   <text x="156" y="78" class="out">~</text>
   <text x="168" y="78" class="dim">$</text>
-  <text x="180" y="78" class="cmd"> whoami</text>
+  <text x="180" y="78" class="cmd"> who am i</text>
 </g>
 
 <!-- LINE 2 : output -->
