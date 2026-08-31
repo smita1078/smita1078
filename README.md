@@ -58,8 +58,6 @@ Software Engineer specializing in **Test Automation** and **Microservices Archit
 
 ### Documentation & Site Infrastructure
 ![Apache Maven](https://img.shields.io/badge/Maven_Doxia-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![XML](https://img.shields.io/badge/Xdocs_XML-005C84?style=for-the-badge&logo=xml&logoColor=white)
-![JSON](https://img.shields.io/badge/Search_Index_JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Lychee](https://img.shields.io/badge/Lychee_Linkcheck-FF4136?style=for-the-badge&logo=rust&logoColor=white)
