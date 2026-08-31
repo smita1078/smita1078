@@ -1,136 +1,134 @@
 <svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
-<defs>
-  <style>
-    .bg    { fill: #0d1117; }
-    .tbg   { fill: #161b22; }
-    .tbar  { fill: #21262d; }
-    .dot-r { fill: #ff5f57; }
-    .dot-y { fill: #febc2e; }
-    .dot-g { fill: #28c840; }
-    .prompt{ font-family: 'JetBrains Mono','Courier New',monospace; font-size:13px; fill:#58a6ff; }
-    .cmd   { font-family: 'JetBrains Mono','Courier New',monospace; font-size:13px; fill:#e6edf3; }
-    .out   { font-family: 'JetBrains Mono','Courier New',monospace; font-size:13px; fill:#3fb950; }
-    .dim   { font-family: 'JetBrains Mono','Courier New',monospace; font-size:13px; fill:#8b949e; }
-    .hi    { font-family: 'JetBrains Mono','Courier New',monospace; font-size:13px; fill:#f78166; }
-    .cursor{ fill:#58a6ff; }
+  <defs>
+    <style>
+      .bg    { fill: #0d1117; }
+      .tbg   { fill: #161b22; }
+      .tbar  { fill: #21262d; }
+      .dot-r { fill: #ff5f57; }
+      .dot-y { fill: #febc2e; }
+      .dot-g { fill: #28c840; }
+      .prompt{ font-family: 'JetBrains Mono','Courier New',monospace; font-size:13px; fill:#58a6ff; }
+      .cmd   { font-family: 'JetBrains Mono','Courier New',monospace; font-size:13px; fill:#e6edf3; }
+      .out   { font-family: 'JetBrains Mono','Courier New',monospace; font-size:13px; fill:#3fb950; }
+      .dim   { font-family: 'JetBrains Mono','Courier New',monospace; font-size:13px; fill:#8b949e; }
+      .hi    { font-family: 'JetBrains Mono','Courier New',monospace; font-size:13px; fill:#f78166; }
+      .cursor{ fill:#58a6ff; }
 
-    /* line visibility — each line fades in sequentially */
-    .l1  { opacity:0; animation: show 0.1s  0.5s  forwards; }
-    .l2  { opacity:0; animation: show 0.1s  1.5s  forwards; }
-    .l3  { opacity:0; animation: show 0.1s  2.4s  forwards; }
-    .l4  { opacity:0; animation: show 0.1s  3.3s  forwards; }
-    .l5  { opacity:0; animation: show 0.1s  4.1s  forwards; }
-    .l6  { opacity:0; animation: show 0.1s  5.0s  forwards; }
-    .l7  { opacity:0; animation: show 0.1s  5.8s  forwards; }
-    .l8  { opacity:0; animation: show 0.1s  6.6s  forwards; }
-    .l9  { opacity:0; animation: show 0.1s  7.4s  forwards; }
-    .l10 { opacity:0; animation: show 0.1s  8.2s  forwards; }
-    .l11 { opacity:0; animation: show 0.1s  9.0s  forwards; }
-    .l12 { opacity:0; animation: show 0.1s  9.8s  forwards; }
+      /* line visibility — each line fades in sequentially */
+      .l1  { opacity:0; animation: show 0.1s  0.5s  forwards; }
+      .l2  { opacity:0; animation: show 0.1s  1.5s  forwards; }
+      .l3  { opacity:0; animation: show 0.1s  2.4s  forwards; }
+      .l4  { opacity:0; animation: show 0.1s  3.3s  forwards; }
+      .l5  { opacity:0; animation: show 0.1s  4.1s  forwards; }
+      .l6  { opacity:0; animation: show 0.1s  5.0s  forwards; }
+      .l7  { opacity:0; animation: show 0.1s  5.8s  forwards; }
+      .l8  { opacity:0; animation: show 0.1s  6.6s  forwards; }
+      .l9  { opacity:0; animation: show 0.1s  7.4s  forwards; }
+      .l10 { opacity:0; animation: show 0.1s  8.2s  forwards; }
+      .l11 { opacity:0; animation: show 0.1s  9.0s  forwards; }
+      .l12 { opacity:0; animation: show 0.1s  9.8s  forwards; }
 
-    .cur { opacity:0; animation: show 0.1s 9.8s forwards, blink 1s 9.8s step-end infinite; }
+      .cur { opacity:0; animation: show 0.1s 9.8s forwards, blink 1s 9.8s step-end infinite; }
 
-    @keyframes show  { to { opacity: 1; } }
-    @keyframes blink { 0%,100%{ opacity:1; } 50%{ opacity:0; } }
-  </style>
-</defs>
+      @keyframes show  { to { opacity: 1; } }
+      @keyframes blink { 0%,100%{ opacity:1; } 50%{ opacity:0; } }
+    </style>
+  </defs>
 
-<!-- outer card -->
-<rect width="900" height="280" rx="10" class="bg"/>
+  <!-- outer card -->
+  <rect width="900" height="280" rx="10" class="bg"/>
 
-<!-- terminal window -->
-<rect x="24" y="20" width="852" height="244" rx="8" class="tbg"/>
+  <!-- terminal window -->
+  <rect x="24" y="20" width="852" height="244" rx="8" class="tbg"/>
 
-<!-- title bar -->
-<rect x="24" y="20" width="852" height="32" rx="8" class="tbar"/>
-<rect x="24" y="36" width="852" height="16" class="tbar"/>
+  <!-- title bar -->
+  <rect x="24" y="20" width="852" height="32" rx="8" class="tbar"/>
+  <rect x="24" y="36" width="852" height="16" class="tbar"/>
 
-<!-- traffic lights -->
-<circle cx="50"  cy="36" r="6" class="dot-r"/>
-<circle cx="70"  cy="36" r="6" class="dot-y"/>
-<circle cx="90"  cy="36" r="6" class="dot-g"/>
+  <!-- traffic lights -->
+  <circle cx="50"  cy="36" r="6" class="dot-r"/>
+  <circle cx="70"  cy="36" r="6" class="dot-y"/>
+  <circle cx="90"  cy="36" r="6" class="dot-g"/>
 
-<!-- terminal title -->
-<text x="450" y="41" font-family="'JetBrains Mono','Courier New',monospace" font-size="12"
-      fill="#8b949e" text-anchor="middle">smita1078 — bash</text>
+  <!-- terminal title -->
+  <text x="450" y="41" font-family="'JetBrains Mono','Courier New',monospace" font-size="12"
+        fill="#8b949e" text-anchor="middle">smita1078 — bash</text>
 
-<!-- ── LINE 1 : prompt + command ── -->
-<g class="l1">
-  <text x="44" y="78" class="prompt">smita@github</text>
-  <text x="148" y="78" class="dim">:</text>
-  <text x="156" y="78" class="out">~</text>
-  <text x="168" y="78" class="dim">$</text>
-  <text x="180" y="78" class="cmd"> who am i</text>
-</g>
+  <!-- ── LINE 1 : prompt + command ── -->
+  <g class="l1">
+    <text x="44" y="78" class="prompt">smita@github</text>
+    <text x="148" y="78" class="dim">:</text>
+    <text x="156" y="78" class="out">~</text>
+    <text x="168" y="78" class="dim">$</text>
+    <text x="180" y="78" class="cmd"> who am i</text>
+  </g>
 
-<!-- LINE 2 : output -->
-<g class="l2">
-  <text x="44" y="98" class="out">Smita Prajapati</text>
-  <text x="178" y="98" class="dim"> Software Engineer</text>
-</g>
+  <!-- LINE 2 : output -->
+  <g class="l2">
+    <text x="44" y="98" class="out">Smita Prajapati</text>
+    <text x="172" y="98" class="dim"> — Software Engineer</text>
+  </g>
 
-<!-- LINE 3 : blank + prompt -->
-<g class="l3">
-  <text x="44" y="118" class="prompt">smita@github</text>
-  <text x="148" y="118" class="dim">:</text>
-  <text x="156" y="118" class="out">~</text>
-  <text x="168" y="118" class="dim">$</text>
-  <text x="180" y="118" class="cmd"> cat summary.log</text>
-</g>
+  <!-- LINE 3 : blank + prompt -->
+  <g class="l3">
+    <text x="44" y="118" class="prompt">smita@github</text>
+    <text x="148" y="118" class="dim">:</text>
+    <text x="156" y="118" class="out">~</text>
+    <text x="168" y="118" class="dim">$</text>
+    <text x="180" y="118" class="cmd"> cat summary.log</text>
+  </g>
 
-<!-- LINE 5 -->
-<g class="l5">
-  <text x="44" y="155" class="dim">▶  prs     </text>
-  <text x="152" y="155" class="hi">255 merged</text>
-</g>
+  <!-- LINE 5 -->
+  <g class="l5">
+    <text x="44" y="155" class="dim">▶  prs</text>
+    <text x="180" y="155" class="hi">255 merged</text>
+  </g>
 
-<!-- LINE 6 -->
-<g class="l6">
-  <text x="44" y="172" class="dim">▶  impact  </text>
-  <text x="152" y="172" class="out">94% suppression reduction</text>
-  <text x="370" y="172" class="dim">open source contributor</text>
-</g>
+  <!-- LINE 6 -->
+  <g class="l6">
+    <text x="44" y="172" class="dim">▶  contributions</text>
+    <text x="180" y="172" class="out">open source contributor</text>
+  </g>
 
-<!-- LINE 7 -->
-<g class="l7">
-  <text x="44" y="189" class="dim">▶  Languages  </text>
-  <text x="152" y="189" class="cmd">Java,C++</text>
-</g>
+  <!-- LINE 7 -->
+  <g class="l7">
+    <text x="44" y="189" class="dim">▶  Languages</text>
+    <text x="180" y="189" class="cmd">Java, C++</text>
+  </g>
 
+  <!-- LINE 9 : prompt -->
+  <g class="l9">
+    <text x="44" y="224" class="prompt">smita@github</text>
+    <text x="148" y="224" class="dim">:</text>
+    <text x="156" y="224" class="out">~</text>
+    <text x="168" y="224" class="dim">$</text>
+    <text x="180" y="224" class="cmd"> echo $STACK</text>
+  </g>
 
-<!-- LINE 9 : prompt -->
-<g class="l9">
-  <text x="44" y="224" class="prompt">smita@github</text>
-  <text x="148" y="224" class="dim">:</text>
-  <text x="156" y="224" class="out">~</text>
-  <text x="168" y="224" class="dim">$</text>
-  <text x="180" y="224" class="cmd"> echo $STACK</text>
-</g>
+  <!-- LINE 10 -->
+  <g class="l10">
+    <text x="44" y="242" class="out">Java</text>
+    <text x="84"  y="242" class="dim"> · </text>
+    <text x="96"  y="242" class="out">Spring Boot</text>
+    <text x="192" y="242" class="dim"> · </text>
+    <text x="204" y="242" class="out">JUnit</text>
+    <text x="252" y="242" class="dim"> · </text>
+    <text x="264" y="242" class="out">Jenkins</text>
+    <text x="324" y="242" class="dim"> · </text>
+    <text x="336" y="242" class="out">GCP</text>
+    <text x="368" y="242" class="dim"> · </text>
+    <text x="380" y="242" class="out">Docker</text>
+  </g>
 
-<!-- LINE 10 -->
-<g class="l10">
-  <text x="44" y="242" class="out">Java</text>
-  <text x="84"  y="242" class="dim"> · </text>
-  <text x="96"  y="242" class="out">Spring Boot</text>
-  <text x="192" y="242" class="dim"> · </text>
-  <text x="304" y="242" class="out">JUnit</text>
-  <text x="348" y="242" class="dim"> · </text>
-  <text x="360" y="242" class="out">Jenkins</text>
-  <text x="420" y="242" class="dim"> · </text>
-  <text x="432" y="242" class="out">GCP</text>
-  <text x="464" y="242" class="dim"> · </text>
-  <text x="476" y="242" class="out">Docker</text>
-</g>
+  <!-- LINE 11 : final prompt -->
+  <g class="l11">
+    <text x="44" y="260" class="prompt">smita@github</text>
+    <text x="148" y="260" class="dim">:</text>
+    <text x="156" y="260" class="out">~</text>
+    <text x="168" y="260" class="dim">$</text>
+  </g>
 
-<!-- LINE 11 : final prompt -->
-<g class="l11">
-  <text x="44" y="260" class="prompt">smita@github</text>
-  <text x="148" y="260" class="dim">:</text>
-  <text x="156" y="260" class="out">~</text>
-  <text x="168" y="260" class="dim">$</text>
-</g>
-
-<!-- blinking cursor -->
-<rect class="cur cursor" x="180" y="248" width="8" height="15" rx="1"/>
+  <!-- blinking cursor -->
+  <rect class="cur cursor" x="180" y="248" width="8" height="15" rx="1"/>
 
 </svg>
