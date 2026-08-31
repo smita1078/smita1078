@@ -146,6 +146,6 @@
 </g>
 
 <!-- blinking cursor -->
-<rect class="cur" x="180" y="248" width="8" height="15" rx="1" class="cursor"/>
+<rect class="cur cursor" x="180" y="248" width="8" height="15" rx="1"/>
 
 </svg>
