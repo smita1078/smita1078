@@ -66,7 +66,7 @@
 <!-- LINE 2 : output -->
 <g class="l2">
   <text x="44" y="98" class="out">Smita Prajapati</text>
-  <text x="178" y="98" class="dim"> — Senior Software Engineer · Deutsche Bank</text>
+  <text x="178" y="98" class="dim"> Software Engineer</text>
 </g>
 
 <!-- LINE 3 : blank + prompt -->
@@ -75,41 +75,28 @@
   <text x="148" y="118" class="dim">:</text>
   <text x="156" y="118" class="out">~</text>
   <text x="168" y="118" class="dim">$</text>
-  <text x="180" y="118" class="cmd"> cat gsoc_2026.log</text>
-</g>
-
-<!-- LINE 4 -->
-<g class="l4">
-  <text x="44" y="138" class="dim">▶  org     </text>
-  <text x="152" y="138" class="cmd">Checkstyle · Enhancement For Website 2026</text>
+  <text x="180" y="118" class="cmd"> cat summary.log</text>
 </g>
 
 <!-- LINE 5 -->
 <g class="l5">
   <text x="44" y="155" class="dim">▶  prs     </text>
   <text x="152" y="155" class="hi">255 merged</text>
-  <text x="242" y="155" class="dim">  (0 reverted)</text>
 </g>
 
 <!-- LINE 6 -->
 <g class="l6">
   <text x="44" y="172" class="dim">▶  impact  </text>
   <text x="152" y="172" class="out">94% suppression reduction</text>
-  <text x="370" y="172" class="dim">  228 → 10</text>
+  <text x="370" y="172" class="dim">open source contributor</text>
 </g>
 
 <!-- LINE 7 -->
 <g class="l7">
-  <text x="44" y="189" class="dim">▶  search  </text>
-  <text x="152" y="189" class="cmd">2,500+ entries indexed · 300+ pages with TOC</text>
+  <text x="44" y="189" class="dim">▶  Languages  </text>
+  <text x="152" y="189" class="cmd">Java,C++</text>
 </g>
 
-<!-- LINE 8 -->
-<g class="l8">
-  <text x="44" y="206" class="dim">▶  hours   </text>
-  <text x="152" y="206" class="cmd">250+ delivered</text>
-  <text x="268" y="206" class="dim">  (175 planned)</text>
-</g>
 
 <!-- LINE 9 : prompt -->
 <g class="l9">
@@ -126,8 +113,6 @@
   <text x="84"  y="242" class="dim"> · </text>
   <text x="96"  y="242" class="out">Spring Boot</text>
   <text x="192" y="242" class="dim"> · </text>
-  <text x="204" y="242" class="out">Playwright</text>
-  <text x="292" y="242" class="dim"> · </text>
   <text x="304" y="242" class="out">JUnit</text>
   <text x="348" y="242" class="dim"> · </text>
   <text x="360" y="242" class="out">Jenkins</text>
