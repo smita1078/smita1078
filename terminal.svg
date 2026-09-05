@@ -1,134 +1,95 @@
-<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      .bg    { fill: #0d1117; }
-      .tbg   { fill: #161b22; }
-      .tbar  { fill: #21262d; }
-      .dot-r { fill: #ff5f57; }
-      .dot-y { fill: #febc2e; }
-      .dot-g { fill: #28c840; }
-      .prompt{ font-family: 'JetBrains Mono','Courier New',monospace; font-size:13px; fill:#58a6ff; }
-      .cmd   { font-family: 'JetBrains Mono','Courier New',monospace; font-size:13px; fill:#e6edf3; }
-      .out   { font-family: 'JetBrains Mono','Courier New',monospace; font-size:13px; fill:#3fb950; }
-      .dim   { font-family: 'JetBrains Mono','Courier New',monospace; font-size:13px; fill:#8b949e; }
-      .hi    { font-family: 'JetBrains Mono','Courier New',monospace; font-size:13px; fill:#f78166; }
-      .cursor{ fill:#58a6ff; }
+      .bg     { fill: #0d1117; }
+      .tbg    { fill: #161b22; }
+      .tbar   { fill: #21262d; }
+      .stroke { fill: none; stroke: #30363d; stroke-width: 1; }
+      .dot-r  { fill: #ff5f57; }
+      .dot-y  { fill: #febc2e; }
+      .dot-g  { fill: #28c840; }
+      text    { font-family: 'JetBrains Mono','Fira Code','Courier New',monospace;
+                font-size: 13px; }
+      .prompt { fill: #58a6ff; }
+      .cmd    { fill: #e6edf3; }
+      .out    { fill: #3fb950; }
+      .dim    { fill: #8b949e; }
+      .hi     { fill: #f78166; }
+      .warn   { fill: #d29922; }
+      .cursor { fill: #58a6ff; }
 
-      /* line visibility — each line fades in sequentially */
-      .l1  { opacity:0; animation: show 0.1s  0.5s  forwards; }
-      .l2  { opacity:0; animation: show 0.1s  1.5s  forwards; }
-      .l3  { opacity:0; animation: show 0.1s  2.4s  forwards; }
-      .l4  { opacity:0; animation: show 0.1s  3.3s  forwards; }
-      .l5  { opacity:0; animation: show 0.1s  4.1s  forwards; }
-      .l6  { opacity:0; animation: show 0.1s  5.0s  forwards; }
-      .l7  { opacity:0; animation: show 0.1s  5.8s  forwards; }
-      .l8  { opacity:0; animation: show 0.1s  6.6s  forwards; }
-      .l9  { opacity:0; animation: show 0.1s  7.4s  forwards; }
-      .l10 { opacity:0; animation: show 0.1s  8.2s  forwards; }
-      .l11 { opacity:0; animation: show 0.1s  9.0s  forwards; }
-      .l12 { opacity:0; animation: show 0.1s  9.8s  forwards; }
-
-      .cur { opacity:0; animation: show 0.1s 9.8s forwards, blink 1s 9.8s step-end infinite; }
-
+      .l1  { opacity:0; animation: show 0.1s 0.4s  forwards; }
+      .l2  { opacity:0; animation: show 0.1s 1.1s  forwards; }
+      .l3  { opacity:0; animation: show 0.1s 1.9s  forwards; }
+      .l4  { opacity:0; animation: show 0.1s 2.5s  forwards; }
+      .l5  { opacity:0; animation: show 0.1s 3.0s  forwards; }
+      .l6  { opacity:0; animation: show 0.1s 3.5s  forwards; }
+      .l7  { opacity:0; animation: show 0.1s 4.0s  forwards; }
+      .l8  { opacity:0; animation: show 0.1s 4.5s  forwards; }
+      .l9  { opacity:0; animation: show 0.1s 5.3s  forwards; }
+      .l10 { opacity:0; animation: show 0.1s 6.0s  forwards; }
+      .l11 { opacity:0; animation: show 0.1s 6.8s  forwards; }
+      .cur { opacity:0; animation: show 0.1s 6.8s forwards,
+                                  blink 1.1s 6.8s step-end infinite; }
       @keyframes show  { to { opacity: 1; } }
-      @keyframes blink { 0%,100%{ opacity:1; } 50%{ opacity:0; } }
+      @keyframes blink { 0%,100% { opacity:1; } 50% { opacity:0; } }
+
+      @media (prefers-reduced-motion: reduce) {
+        .l1,.l2,.l3,.l4,.l5,.l6,.l7,.l8,.l9,.l10,.l11,.cur {
+          opacity: 1; animation: none;
+        }
+      }
     </style>
   </defs>
 
-  <!-- outer card -->
-  <rect width="900" height="280" rx="10" class="bg"/>
+  <rect width="900" height="300" rx="10" class="bg"/>
+  <rect x="24" y="20" width="852" height="264" rx="8" class="tbg"/>
+  <rect x="24" y="20" width="852" height="264" rx="8" class="stroke"/>
 
-  <!-- terminal window -->
-  <rect x="24" y="20" width="852" height="244" rx="8" class="tbg"/>
+  <path d="M24 28 a8 8 0 0 1 8 -8 h836 a8 8 0 0 1 8 8 v24 h-852 z" class="tbar"/>
+  <circle cx="50" cy="36" r="6" class="dot-r"/>
+  <circle cx="70" cy="36" r="6" class="dot-y"/>
+  <circle cx="90" cy="36" r="6" class="dot-g"/>
+  <text x="450" y="41" font-size="12" fill="#8b949e" text-anchor="middle">smita1078 — bash</text>
 
-  <!-- title bar -->
-  <rect x="24" y="20" width="852" height="32" rx="8" class="tbar"/>
-  <rect x="24" y="36" width="852" height="16" class="tbar"/>
-
-  <!-- traffic lights -->
-  <circle cx="50"  cy="36" r="6" class="dot-r"/>
-  <circle cx="70"  cy="36" r="6" class="dot-y"/>
-  <circle cx="90"  cy="36" r="6" class="dot-g"/>
-
-  <!-- terminal title -->
-  <text x="450" y="41" font-family="'JetBrains Mono','Courier New',monospace" font-size="12"
-        fill="#8b949e" text-anchor="middle">smita1078 — bash</text>
-
-  <!-- ── LINE 1 : prompt + command ── -->
+  <!-- whoami -->
   <g class="l1">
-    <text x="44" y="78" class="prompt">smita@github</text>
-    <text x="148" y="78" class="dim">:</text>
-    <text x="156" y="78" class="out">~</text>
-    <text x="168" y="78" class="dim">$</text>
-    <text x="180" y="78" class="cmd"> who am i</text>
+    <text x="44" y="80"><tspan class="prompt">smita@github</tspan><tspan class="dim">:</tspan><tspan class="out">~</tspan><tspan class="dim">$</tspan><tspan class="cmd"> whoami</tspan></text>
   </g>
-
-  <!-- LINE 2 : output -->
   <g class="l2">
-    <text x="44" y="98" class="out">Smita Prajapati</text>
-    <text x="172" y="98" class="dim"> — Software Engineer</text>
+    <text x="44" y="100"><tspan class="out">Smita Prajapati</tspan><tspan class="dim"> — Backend Engineer · Java / Spring Boot · GSoC '26 @ Checkstyle</tspan></text>
   </g>
 
-  <!-- LINE 3 : blank + prompt -->
+  <!-- cat summary.log -->
   <g class="l3">
-    <text x="44" y="118" class="prompt">smita@github</text>
-    <text x="148" y="118" class="dim">:</text>
-    <text x="156" y="118" class="out">~</text>
-    <text x="168" y="118" class="dim">$</text>
-    <text x="180" y="118" class="cmd"> cat summary.log</text>
+    <text x="44" y="128"><tspan class="prompt">smita@github</tspan><tspan class="dim">:</tspan><tspan class="out">~</tspan><tspan class="dim">$</tspan><tspan class="cmd"> cat summary.log</tspan></text>
   </g>
-
-  <!-- LINE 5 -->
+  <g class="l4">
+    <text x="44" y="150"><tspan class="dim">▶ open source</tspan><tspan class="hi" x="230">260+ PRs merged into Checkstyle (9k★)</tspan></text>
+  </g>
   <g class="l5">
-    <text x="44" y="155" class="dim">▶  prs</text>
-    <text x="180" y="155" class="hi">255 merged</text>
+    <text x="44" y="170"><tspan class="dim">▶ test coverage</tspan><tspan class="out" x="230">suppressed cases 228 → 10  (-94%)</tspan></text>
   </g>
-
-  <!-- LINE 6 -->
   <g class="l6">
-    <text x="44" y="172" class="dim">▶  contributions</text>
-    <text x="180" y="172" class="out">open source contributor</text>
+    <text x="44" y="190"><tspan class="dim">▶ security</tspan><tspan class="warn" x="230">OSS vulnerabilities 1600 → 0</tspan></text>
   </g>
-
-  <!-- LINE 7 -->
   <g class="l7">
-    <text x="44" y="189" class="dim">▶  Languages</text>
-    <text x="180" y="189" class="cmd">Java, C++</text>
+    <text x="44" y="210"><tspan class="dim">▶ refactor</tspan><tspan class="out" x="230">codebase footprint -50%  (RCP Excellence Award)</tspan></text>
+  </g>
+  <g class="l8">
+    <text x="44" y="230"><tspan class="dim">▶ automation</tspan><tspan class="out" x="230">200+ e2e tests · manual QA effort -80%</tspan></text>
   </g>
 
-  <!-- LINE 9 : prompt -->
+  <!-- echo $STACK -->
   <g class="l9">
-    <text x="44" y="224" class="prompt">smita@github</text>
-    <text x="148" y="224" class="dim">:</text>
-    <text x="156" y="224" class="out">~</text>
-    <text x="168" y="224" class="dim">$</text>
-    <text x="180" y="224" class="cmd"> echo $STACK</text>
+    <text x="44" y="256"><tspan class="prompt">smita@github</tspan><tspan class="dim">:</tspan><tspan class="out">~</tspan><tspan class="dim">$</tspan><tspan class="cmd"> echo $STACK</tspan></text>
   </g>
-
-  <!-- LINE 10 -->
   <g class="l10">
-    <text x="44" y="242" class="out">Java</text>
-    <text x="84"  y="242" class="dim"> · </text>
-    <text x="96"  y="242" class="out">Spring Boot</text>
-    <text x="192" y="242" class="dim"> · </text>
-    <text x="204" y="242" class="out">JUnit</text>
-    <text x="252" y="242" class="dim"> · </text>
-    <text x="264" y="242" class="out">Jenkins</text>
-    <text x="324" y="242" class="dim"> · </text>
-    <text x="336" y="242" class="out">GCP</text>
-    <text x="368" y="242" class="dim"> · </text>
-    <text x="380" y="242" class="out">Docker</text>
+    <text x="44" y="274"><tspan class="out">Java</tspan><tspan class="dim"> · </tspan><tspan class="out">Spring Boot</tspan><tspan class="dim"> · </tspan><tspan class="out">Microservices</tspan><tspan class="dim"> · </tspan><tspan class="out">REST</tspan><tspan class="dim"> · </tspan><tspan class="out">Docker</tspan><tspan class="dim"> · </tspan><tspan class="out">Maven</tspan><tspan class="dim"> · </tspan><tspan class="out">JUnit</tspan><tspan class="dim"> · </tspan><tspan class="out">GCP</tspan></text>
   </g>
 
-  <!-- LINE 11 : final prompt -->
   <g class="l11">
-    <text x="44" y="260" class="prompt">smita@github</text>
-    <text x="148" y="260" class="dim">:</text>
-    <text x="156" y="260" class="out">~</text>
-    <text x="168" y="260" class="dim">$</text>
+    <text x="44" y="294" opacity="0"><tspan class="prompt">smita@github</tspan></text>
   </g>
-
-  <!-- blinking cursor -->
-  <rect class="cur cursor" x="180" y="248" width="8" height="15" rx="1"/>
-
+  <rect class="cur cursor" x="248" y="264" width="8" height="14" rx="1"/>
 </svg>
