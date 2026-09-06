@@ -1,6 +1,6 @@
 # Smita Prajapati
 <div align="center">
-<img src="https://github.com/smita1078/smita1078/blob/main/terminal.svg" width="100%"/>
+<img src="terminal.svg" width="100%"/>
 </div> 
 
 **Software Engineer · GSoC 2026 @ Checkstyle · NIT Raipur Silver Medalist**
