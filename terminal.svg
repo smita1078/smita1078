@@ -57,7 +57,7 @@
     <text x="44" y="130"><tspan class="prompt">smita@github</tspan><tspan class="dim">:</tspan><tspan class="out">~</tspan><tspan class="dim">$</tspan><tspan class="cmd"> cat about.md</tspan></text>
   </g>
   <g class="l4">
-    <text x="44" y="152"><tspan class="dim">▶ building</tspan><tspan class="cmd" x="200">Java / Spring Boot microservices in investment banking</tspan></text>
+    <text x="44" y="152"><tspan class="dim">▶ building</tspan><tspan class="cmd" x="200">Java / Spring Boot microservices / Test Automation</tspan></text>
   </g>
   <g class="l5">
     <text x="44" y="172"><tspan class="dim">▶ contributing</tspan><tspan class="hi" x="200">open source — Checkstyle static analysis</tspan></text>
