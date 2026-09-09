@@ -35,13 +35,11 @@ Architected a metadata-driven ingestion service that cut its codebase 50%, migra
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=smita1078&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats-gamma-nine-34.vercel.app/api?username=smita1078&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" />
 </p>
 <p align="center">
   <img width="720" src="https://streak-stats.demolab.com?user=smita1078&theme=github-dark-blue&hide_border=true" />
 </p>
-
----
 
 ## Technical Stack
 
