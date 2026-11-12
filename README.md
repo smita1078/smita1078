@@ -20,9 +20,19 @@ Architected a metadata-driven ingestion service that cut its codebase 50%, migra
 
 #### Google Summer of Code · Checkstyle
 
+<p align="center">
+  <a href="https://github.com/smita1078/github-card-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-card-stats.vercel.app/api/card?user=smita1078&repo=checkstyle/checkstyle&theme=dark&v=2">
+      <img src="https://github-card-stats.vercel.app/api/card?user=smita1078&repo=checkstyle/checkstyle" alt="Live checkstyle contribution stats">
+    </picture>
+  </a>
+  <br/>
+  <sub>⚡ live numbers — self-updating via my <a href="https://github.com/smita1078/github-card-stats">github-card-stats</a> project</sub>
+</p>
+
 <table width="100%">
 <tr>
-<td align="center"><strong>260+</strong><br/><sub>Pull Requests Merged</sub></td>
 <td align="center"><strong>94%</strong><br/><sub>Suppression Reduction<br/>(228 → 10)</sub></td>
 <td align="center"><strong>2,500+</strong><br/><sub>Search Entries Indexed</sub></td>
 <td align="center"><strong>300+</strong><br/><sub>Pages with TOC</sub></td>
@@ -39,6 +49,14 @@ Architected a metadata-driven ingestion service that cut its codebase 50%, migra
 </p>
 <p align="center">
   <img width="720" src="https://streak-stats.demolab.com?user=smita1078&theme=github-dark-blue&hide_border=true" />
+</p>
+<p align="center">
+  <a href="https://github.com/smita1078/github-card-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-card-stats.vercel.app/api/multi?user=smita1078&repos=checkstyle/checkstyle,checkstyle/contribution,checkstyle/checkstyle-files-generator&theme=dark&v=2">
+      <img src="https://github-card-stats.vercel.app/api/multi?user=smita1078&repos=checkstyle/checkstyle,checkstyle/contribution,checkstyle/checkstyle-files-generator" alt="Open-source contributions by repo">
+    </picture>
+  </a>
 </p>
 
 ## Technical Stack
