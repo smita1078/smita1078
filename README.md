@@ -31,15 +31,6 @@ Architected a metadata-driven ingestion service that cut its codebase 50%, migra
   <sub>⚡ live numbers — self-updating via my <a href="https://github.com/smita1078/github-card-stats">github-card-stats</a> project</sub>
 </p>
 
-<table width="100%">
-<tr>
-<td align="center"><strong>94%</strong><br/><sub>Suppression Reduction<br/>(228 → 10)</sub></td>
-<td align="center"><strong>2,500+</strong><br/><sub>Search Entries Indexed</sub></td>
-<td align="center"><strong>300+</strong><br/><sub>Pages with TOC</sub></td>
-<td align="center"><strong>~8,000</strong><br/><sub>Lines of Code</sub></td>
-</tr>
-</table>
-
 ---
 
 ## GitHub Stats
