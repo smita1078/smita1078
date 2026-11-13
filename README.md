@@ -44,7 +44,7 @@ Architected a metadata-driven ingestion service that cut its codebase 50%, migra
 <p align="center">
   <a href="https://github.com/smita1078/github-card-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-card-stats.vercel.app/api/multi?user=smita1078&repos=checkstyle/checkstyle,checkstyle/contribution,checkstyle/checkstyle-files-generator&theme=dark&v=2">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-card-stats.vercel.app/api/multi?user=smita1078&repos=checkstyle/checkstyle,checkstyle/contribution,checkstyle/checkstyle-files-generator&theme=dark&v=7">
       <img src="https://github-card-stats.vercel.app/api/multi?user=smita1078&repos=checkstyle/checkstyle,checkstyle/contribution,checkstyle/checkstyle-files-generator" alt="Open-source contributions by repo">
     </picture>
   </a>
