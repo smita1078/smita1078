@@ -22,16 +22,11 @@ Architected a metadata-driven ingestion service that cut its codebase 50%, migra
 
 <p align="center">
   <a href="https://github.com/smita1078/github-card-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-card-stats.vercel.app/api/card?user=smita1078&repo=checkstyle/checkstyle&theme=dark&v=2">
-      <img src="https://github-card-stats.vercel.app/api/card?user=smita1078&repo=checkstyle/checkstyle" alt="Live checkstyle contribution stats">
-    </picture>
+    <img src="https://github-card-stats.vercel.app/api/card?user=smita1078&repo=checkstyle/checkstyle&v=8" alt="Live checkstyle contribution stats">
   </a>
   <br/>
   <sub>⚡ live numbers — self-updating via my <a href="https://github.com/smita1078/github-card-stats">github-card-stats</a> project</sub>
 </p>
-
----
 
 ## GitHub Stats
 
@@ -43,10 +38,7 @@ Architected a metadata-driven ingestion service that cut its codebase 50%, migra
 </p>
 <p align="center">
   <a href="https://github.com/smita1078/github-card-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-card-stats.vercel.app/api/multi?user=smita1078&repos=checkstyle/checkstyle,checkstyle/contribution,checkstyle/checkstyle-files-generator&theme=dark&v=7">
-      <img src="https://github-card-stats.vercel.app/api/multi?user=smita1078&repos=checkstyle/checkstyle,checkstyle/contribution,checkstyle/checkstyle-files-generator" alt="Open-source contributions by repo">
-    </picture>
+    <img src="https://github-card-stats.vercel.app/api/multi?user=smita1078&repos=checkstyle/checkstyle,checkstyle/contribution,checkstyle/checkstyle-files-generator&v=8" alt="Open-source contributions by repo">
   </a>
 </p>
 
