@@ -20,13 +20,13 @@ Architected a metadata-driven ingestion service that cut its codebase 50%, migra
 
 #### Google Summer of Code · Checkstyle
 
-<p align="center">
-  <a href="https://github.com/smita1078/github-card-stats">
-    <img src="https://github-card-stats.vercel.app/api/card?user=smita1078&repo=checkstyle/checkstyle&v=8" alt="Live checkstyle contribution stats">
-  </a>
-  <br/>
-  <sub>⚡ live numbers — self-updating via my <a href="https://github.com/smita1078/github-card-stats">github-card-stats</a> project</sub>
-</p>
+<div align="center">
+
+![Live checkstyle contribution stats](https://github-card-stats.vercel.app/api/card?user=smita1078&repo=checkstyle/checkstyle&v=8)
+
+<sub>⚡ live numbers — self-updating via my <a href="https://github.com/smita1078/github-card-stats">github-card-stats</a> project</sub>
+
+</div>
 
 ## GitHub Stats
 
@@ -36,11 +36,11 @@ Architected a metadata-driven ingestion service that cut its codebase 50%, migra
 <p align="center">
   <img width="720" src="https://streak-stats.demolab.com?user=smita1078&theme=github-dark-blue&hide_border=true" />
 </p>
-<p align="center">
-  <a href="https://github.com/smita1078/github-card-stats">
-    <img src="https://github-card-stats.vercel.app/api/multi?user=smita1078&repos=checkstyle/checkstyle,checkstyle/contribution,checkstyle/checkstyle-files-generator&v=8" alt="Open-source contributions by repo">
-  </a>
-</p>
+<div align="center">
+
+![Open-source contributions by repo](https://github-card-stats.vercel.app/api/multi?user=smita1078&repos=checkstyle/checkstyle,checkstyle/contribution,checkstyle/checkstyle-files-generator&v=8)
+
+</div>
 
 ## Technical Stack
 
